@@ -8,6 +8,8 @@
         "Kirk, Stephanie",
         "Ngoi, Zi Liang"
     ],
-    "EthicsApprovals": [],
+    "EthicsApprovals": [
+        "NTU-IRB-2022-187"
+    ],
     "License": "CC0"
 }
